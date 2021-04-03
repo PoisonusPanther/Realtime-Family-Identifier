@@ -1,0 +1,36 @@
+.header{
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.header_div{
+    background-color: azure;
+    color: black;
+    border-radius: 10px;
+    width: 60%;
+    box-shadow: 5px 5px 5px grey;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+#member{
+margin-top: 50px;
+box-shadow: 5px 5px 5px grey;
+}
+.footer{
+    width: 100%;
+    bottom: 0px;
+    background-color: gray;
+    position: fixed;
+    height: 30px;
+    color: white;
+}
+#accuracy{
+    box-shadow: 5px 5px 5px grey;
+} 
+canvas{
+    border-radius: 20px;
+    border: white 5px solid;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
